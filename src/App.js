@@ -1,24 +1,14 @@
-import logo from './logo.svg';
+/* eslint-disable react/style-prop-object */
+// import logo from './logo.svg';
+import AnupDaju from './AnupDaju/AnupDaju';
 import './App.css';
+import Self from './Self/Self';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Self />
+      </>
   );
 }
 
