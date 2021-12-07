@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/virtualKeyboard/static/css/main.3df6433d.chunk.css",
-    "main.js": "/virtualKeyboard/static/js/main.3b5d6462.chunk.js",
-    "main.js.map": "/virtualKeyboard/static/js/main.3b5d6462.chunk.js.map",
+    "main.css": "/virtualKeyboard/static/css/main.a723c1eb.chunk.css",
+    "main.js": "/virtualKeyboard/static/js/main.ee4e01b2.chunk.js",
+    "main.js.map": "/virtualKeyboard/static/js/main.ee4e01b2.chunk.js.map",
     "runtime-main.js": "/virtualKeyboard/static/js/runtime-main.5690432e.js",
     "runtime-main.js.map": "/virtualKeyboard/static/js/runtime-main.5690432e.js.map",
     "static/js/2.5acc45a8.chunk.js": "/virtualKeyboard/static/js/2.5acc45a8.chunk.js",
     "static/js/2.5acc45a8.chunk.js.map": "/virtualKeyboard/static/js/2.5acc45a8.chunk.js.map",
     "index.html": "/virtualKeyboard/index.html",
-    "static/css/main.3df6433d.chunk.css.map": "/virtualKeyboard/static/css/main.3df6433d.chunk.css.map",
+    "static/css/main.a723c1eb.chunk.css.map": "/virtualKeyboard/static/css/main.a723c1eb.chunk.css.map",
     "static/js/2.5acc45a8.chunk.js.LICENSE.txt": "/virtualKeyboard/static/js/2.5acc45a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5690432e.js",
     "static/js/2.5acc45a8.chunk.js",
-    "static/css/main.3df6433d.chunk.css",
-    "static/js/main.3b5d6462.chunk.js"
+    "static/css/main.a723c1eb.chunk.css",
+    "static/js/main.ee4e01b2.chunk.js"
   ]
 }
